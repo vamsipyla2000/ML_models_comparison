@@ -6,7 +6,7 @@ Accuracy of random forest classifier with 100 estimators and all the features is
 Accuracy of random forest classifier with 10 estimators and all removing two least features is 0.8546
 Accuracy of random forest classifier with 10 estimators and all removing two least features is 0.9264
 It was concluded that all the features have significant importance in model building.
-Accuracy of different optimizers was plotted with respect to the learning rate, it is observed that for RMSprop optimizer gave more accuracy(Maximum accuracy: 0.9369527101516724) compared to ADAM and AdaGrad
+Accuracy of different optimizers was plotted with respect to the learning rate, it is observed that for RMSprop optimizer gave more accuracy(Maximum accuracy: 0.937) compared to ADAM and AdaGrad
 learning rate of 0.01 gave more accuracy with RMSprop optimizer.
 Random forest gave better accuracy than ANN model, and ANN model is computationally expensive.
 Random Forest: Random Forest is an ensemble method that combines multiple decision trees to reduce overfitting and increase generalization. It is relatively robust and performs well even without extensive hyperparameter tuning. The simplicity and interpretability of decision trees help Random Forests capture the structure in the data effectively without overfitting.
