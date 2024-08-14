@@ -3,8 +3,8 @@ Car Evaluation data set was taken, the ML problem is to  predict the acceptabili
 Two mdoels accuraacy of ML models such as random forest,ANN  was compared.
 Accuracy of random forest classifier with 10 estimators and all the features is 0.9475
 Accuracy of random forest classifier with 100 estimators and all the features is 0.9545
-Accuracy of random forest classifier with 10 estimators and all removing two least features is 0.8546
-Accuracy of random forest classifier with 10 estimators and all removing two least features is 0.9264
+Accuracy of random forest classifier with 10 estimators and removing two least features is 0.8546
+Accuracy of random forest classifier with 10 estimators and removing one least features is 0.9264
 It was concluded that all the features have significant importance in model building.
 Accuracy of different optimizers was plotted with respect to the learning rate, it is observed that for RMSprop optimizer gave more accuracy(Maximum accuracy: 0.937) compared to ADAM and AdaGrad
 learning rate of 0.01 gave more accuracy with RMSprop optimizer.
